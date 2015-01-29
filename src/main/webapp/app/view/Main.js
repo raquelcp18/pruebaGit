@@ -15,12 +15,12 @@ Ext.define('MyApp.view.Main', {
         region: 'west',
         xtype: 'panel',
         title: 'west',
-        width: 150
+        width: 200
     },{
         region: 'center',
         xtype: 'tabpanel',
         items:[{
-            title: 'Center Tab 1'
+            title: ':P'
         }]
     }]
 });
